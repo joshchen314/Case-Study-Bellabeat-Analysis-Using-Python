@@ -9,3 +9,7 @@ The six steps of data analysis in Google Data Analytics are:
 6. Act on Insights: Develop action plans based on analysis results.
 
 I have to say that I love the Google Data Analytics Professional Certificate. HIGHLY recommendation. I miss the studying time when my wife was pregnant and gave birth to our daughter. I often searched for related information during my spare time from work. Those memories are truly precious.
+
+[View code on Github]
+
+(https://github.com/joshchen314/Case-Study-Bellabeat-Analysis-Using-Python)
